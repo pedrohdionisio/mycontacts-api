@@ -30,4 +30,4 @@ Para executar a aplicação em sua máquina, execute os seguintes comandos:
   $ yarn dev
 ```
 
-Desenvolvido com 🤍 por Pedro Henrique Dionisio.# mycontacts-api
+Desenvolvido com 🤍 por Pedro Henrique Dionisio.
